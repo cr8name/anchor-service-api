@@ -15,7 +15,6 @@ public class UtilitiesServiceImpl implements  UtilitiesService {
 
     private final UtilitiesRepository utilitiesRepository;
 
-
     public UtilitiesServiceImpl(UtilitiesRepository utilitiesRepository) {
         this.utilitiesRepository = utilitiesRepository;
 
